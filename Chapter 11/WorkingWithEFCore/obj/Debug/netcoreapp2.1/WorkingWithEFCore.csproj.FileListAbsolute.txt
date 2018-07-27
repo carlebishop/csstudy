@@ -1,0 +1,11 @@
+C:\Code\Chapter11\WorkingWithEFCore\bin\Debug\netcoreapp2.1\WorkingWithEFCore.deps.json
+C:\Code\Chapter11\WorkingWithEFCore\bin\Debug\netcoreapp2.1\WorkingWithEFCore.runtimeconfig.json
+C:\Code\Chapter11\WorkingWithEFCore\bin\Debug\netcoreapp2.1\WorkingWithEFCore.runtimeconfig.dev.json
+C:\Code\Chapter11\WorkingWithEFCore\bin\Debug\netcoreapp2.1\WorkingWithEFCore.dll
+C:\Code\Chapter11\WorkingWithEFCore\obj\Debug\netcoreapp2.1\WorkingWithEFCore.csprojResolveAssemblyReference.cache
+C:\Code\Chapter11\WorkingWithEFCore\obj\Debug\netcoreapp2.1\WorkingWithEFCore.csproj.CoreCompileInputs.cache
+C:\Code\Chapter11\WorkingWithEFCore\obj\Debug\netcoreapp2.1\WorkingWithEFCore.AssemblyInfoInputs.cache
+C:\Code\Chapter11\WorkingWithEFCore\obj\Debug\netcoreapp2.1\WorkingWithEFCore.AssemblyInfo.cs
+C:\Code\Chapter11\WorkingWithEFCore\bin\Debug\netcoreapp2.1\WorkingWithEFCore.pdb
+C:\Code\Chapter11\WorkingWithEFCore\obj\Debug\netcoreapp2.1\WorkingWithEFCore.dll
+C:\Code\Chapter11\WorkingWithEFCore\obj\Debug\netcoreapp2.1\WorkingWithEFCore.pdb
